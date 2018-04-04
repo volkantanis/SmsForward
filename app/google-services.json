@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "358971806808",
+    "firebase_url": "https://sms-forward-app.firebaseio.com",
+    "project_id": "sms-forward-app",
+    "storage_bucket": "sms-forward-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358971806808:android:d3bfdbce51d01e94",
+        "android_client_info": {
+          "package_name": "pro.tanis.smsforward"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358971806808-fhumrerbttpaafe6ohp899gt50ee12gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3t70-jm2udd_Ul6I1-aDzYJ-QOg2yVi4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
